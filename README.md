@@ -26,7 +26,8 @@ Projects • About • Books • Blog • Highlights • Resume • Socials
 - Improving pipeline reliability and tying together automation steps across ingestion → enrichment → API  
 - Spinning up the **web app v1** 🎯
 
----
+--- 
+
 
 ## 📌 Start Here
 
@@ -118,6 +119,13 @@ Building “living” software systems — apps that:
 And building systems that are **instrumented and measurable**: analytics, attribution, and feedback loops that drive product improvement.
 
 ---
+
+## 📈 Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Overton77&hide_border=true) 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Overton77&show_icons=true&count_private=true&hide_border=true)
+
 
 ## 📫 Connect
 
