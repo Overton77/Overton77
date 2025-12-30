@@ -124,7 +124,6 @@ And building systems that are **instrumented and measurable**: analytics, attrib
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Overton77&hide_border=true) 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Overton77&show_icons=true&count_private=true&hide_border=true)
 
 
 ## 📫 Connect
