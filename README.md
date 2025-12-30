@@ -120,9 +120,7 @@ And building systems that are **instrumented and measurable**: analytics, attrib
 
 ---
 
-## 📈 Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Overton77&hide_border=true) 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Overton77&theme=tokyo-night&hide_border=true)
 
 
 
