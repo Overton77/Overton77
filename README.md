@@ -8,14 +8,10 @@ I build modern platforms that ingest unstructured data, transform it into struct
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white) 
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?logo=openai&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude%20API-000000?logo=claude&logoColor=white) 
-
 ![LangChain](https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?logo=llamaindex&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?logo=pinecone&logoColor=white)
-![Chroma](https://img.shields.io/badge/ChromaDB-000000?logo=chromadb&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?logo=googlegemini&logoColor=white)
+
 
 ---
 
