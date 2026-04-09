@@ -1,6 +1,6 @@
 # John Overton (@Overton77)
 
-Full-Stack Software Engineer focused on **backend systems, cloud-native pipelines, and AI-integrated products**.
+Full-Stack Software Engineer focused on **client web applications, backend systems, cloud-native pipelines, and AI-integrated products**.
 
 I build modern platforms that ingest unstructured data, transform it into structured knowledge, and expose it through APIs, agents, and user-facing applications — with a strong interest in **LLM/ML-assisted software**.
 
