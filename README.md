@@ -2,12 +2,14 @@
 
 Full-Stack Software Engineer focused on **client web applications, backend systems, cloud-native pipelines, and AI-integrated products**.
 
-I build modern platforms that ingest unstructured data, transform it into structured knowledge, and expose it through APIs, agents, and user-facing applications — with a strong interest in **LLM/ML-assisted software**.
+I build modern platforms that ingest unstructured data, transform it into structured knowledge, and expose it through APIs, agents, and user-facing applications. I’m particularly focused on **agentic engineering, context and workflow management, and cutting-edge AI application patterns including MCP servers, agent skills, advanced RAG, and knowledge bases**. I care about building **robust systems that stand up in the real world when requirements, data, and conditions are uncertain**.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white)
 
 
@@ -21,40 +23,57 @@ Projects • About • Books • Blog • Highlights • Resume • Socials
 
 ---
 
-## 🔥 Currently Building (Next 1.5–2 weeks)
+## 🔥 Currently Building
 
-- Scheduling research agent runs for **entity ingestion** (people, businesses, products, compounds, lab tests, etc.) + **claims/mechanisms/pathway research**, producing the foundation for the web app  
-- Adding **Knowledge Graph creation** and **Graph RAG tests** into the research agent to underpin the client LLM assistant  
-- Improving pipeline reliability and tying together automation steps across ingestion → enrichment → API  
-- Spinning up the **web app v1** 🎯
+- **Human Upgrade biotech applications**: a Vercel GraphQL API, a research/ingestion knowledge-base environment, and supporting infra/data ops for scheduled episode ingestion  
+- **Biotech research suite**: a Neo4j GraphQL knowledge graph, a FastAPI + Temporal multi-agent research backend, and a Next.js client for research missions and exploration  
+- **AI Engineer World's Fair exploration app**: ingestion and enrichment pipelines for sessions, speakers, and YouTube content, exposed through a searchable Next.js web app  
+- **Client-facing product surfaces and internal research tooling** that turn unstructured source material into structured, queryable systems
 
 --- 
 
 
 ## 📌 Start Here
 
-- **Human Upgrade System (hub):** https://github.com/Overton77/human-upgrade-system  
-- **Human Upgrade API (GraphQL + workers):** https://github.com/Overton77/humanupgrade-api  
-- **Research + Ingestion Agent (LangGraph):** https://github.com/Overton77/humanupgrade-app-ingestion_research  
+- **Human Upgrade Biotech API:** https://github.com/Overton77/humanupgradebiotechapi  
+- **Biotech Human Upgrade Knowledge Base:** https://github.com/Overton77/biotech-human-upgrade-knowledge-base  
+- **Biotech Knowledge Graph:** https://github.com/Overton77/biotech-kg  
+- **Biotech Research Ingestion:** https://github.com/Overton77/biotech-research-ingestion  
+- **Biotech Research Web:** https://github.com/Overton77/biotech-research-web  
+- **AI Engineer Research Ingestion:** https://github.com/Overton77/ai-engineer-research-ingestion  
+- **AI Engineer World's Fair Web App:** https://github.com/Overton77/ai-engineer-worldsfair-webapp  
 - **Externship (team work):** https://github.com/tripleten-externships/synth-tree  
 
 ---
 
-## 🚀 Featured System
+## 🚀 Featured Systems
 
-### **Human Upgrade Platform**
-A multi-service biotech knowledge platform that ingests long-form health content, enriches it via agentic research pipelines, and serves structured entities through a production-grade API — with an LLM assistant and client experience in active development.
+### **Human Upgrade Biotech Applications**
+A biotech knowledge application stack centered on ingesting long-form health content, researching entities and claims, and exposing structured outputs through a production-facing GraphQL API.
 
-➡️ **System hub:** https://github.com/Overton77/human-upgrade-system
-
-**Core components:**
-- **GraphQL API:** https://github.com/Overton77/humanupgrade-api  
-- **Research + Ingestion Agent:** https://github.com/Overton77/humanupgrade-app-ingestion_research  
+**Current components:**
+- **GraphQL API (Vercel):** https://github.com/Overton77/humanupgradebiotechapi  
+- **Research + ingestion knowledge base:** https://github.com/Overton77/biotech-human-upgrade-knowledge-base  
 - **State-aware data pipelines:** https://github.com/Overton77/human-upgrade-data-ops  
 - **Infrastructure (AWS CDK):** https://github.com/Overton77/human-upgrade-infra  
 
-> This platform reflects the architecture I’m most excited about:
-> cloud stacks → data pipelines → LLM agents → APIs → client experiences.
+> Earlier Human Upgrade hub repos were useful stepping stones, but the active work now lives in the API and research/knowledge-base systems above.
+
+### **Broader Biotech Research Suite**
+A multi-repo research platform for biohackers, researchers, and investors to explore protocols, compounds, people, organizations, case studies, and company activity through graph-backed search and agent-assisted workflows.
+
+**Core components:**
+- **Neo4j GraphQL knowledge graph + ingestion layer:** https://github.com/Overton77/biotech-kg  
+- **FastAPI + Temporal multi-agent research backend:** https://github.com/Overton77/biotech-research-ingestion  
+- **Next.js research client:** https://github.com/Overton77/biotech-research-web  
+
+### **AI Engineer World's Fair Explorer**
+A project that ingests World's Fair sessions, speakers, and related YouTube content, enriches the corpus with research workflows, and turns it into a searchable app for discovery, notes, and saved entities.
+
+**Core components:**
+- **Backend ingestion + enrichment:** https://github.com/Overton77/ai-engineer-research-ingestion  
+- **Next.js exploration client:** https://github.com/Overton77/ai-engineer-worldsfair-webapp  
+- **Live app:** https://ai-engineer-worldsfair-webapp.vercel.app/
 
 ---
 
