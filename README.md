@@ -18,7 +18,7 @@ I build modern platforms that ingest unstructured data, transform it into struct
 ## 🌐 Portfolio
 
 **Portfolio site (Vercel):**  
-https://nextjs-boilerplate-pied-kappa-57.vercel.app/  
+https://overton-portfolio.vercel.app/  
 Projects • About • Books • Blog • Highlights • Resume • Socials
 
 ---
